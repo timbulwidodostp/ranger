@@ -1,6 +1,8 @@
 # ranger
 A fast implementation of Random Forest (Breiman 2001) or recursive partitioning Use ranger With (In) R Software
 
+https://www.youtube.com/watch?v=5IG69ksf2PM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
